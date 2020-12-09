@@ -21,3 +21,6 @@ $ yarn start
 ```bash
 $ umi build
 ```
+
+## 预览
+<img src="./static/172.16.10.45_8000_(iPhone X).png">
